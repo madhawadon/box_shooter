@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Box Shooter",
+"dataUrl": "BoxShooter.data.unityweb",
+"asmCodeUrl": "BoxShooter.asm.code.unityweb",
+"asmMemoryUrl": "BoxShooter.asm.memory.unityweb",
+"asmFrameworkUrl": "BoxShooter.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
